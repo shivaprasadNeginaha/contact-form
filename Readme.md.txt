@@ -1,4 +1,4 @@
-1)Enter into the contact-form folder
+1)Enter into contact-form folder
 
 2)pip install requirements.txt
 
