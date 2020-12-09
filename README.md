@@ -1,7 +1,7 @@
 # contact-form
 
   
-1)Enter into contact-form folder
+1)cd contact-form 
 
 2)pip install requirements.txt
 
